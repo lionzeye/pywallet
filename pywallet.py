@@ -86,6 +86,7 @@ for i in range(256):
 aversions[0] = 'Bitcoin';
 aversions[48] = 'Litecoin';
 aversions[52] = 'Namecoin';
+aversions[61] = 'Reddcoin';
 aversions[111] = 'Testnet';
 
 wallet_dir = ""
